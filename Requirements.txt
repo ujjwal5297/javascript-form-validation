@@ -1,0 +1,16 @@
+1) Create an employee registration Form using HTML, CSS(use bootstrap for designing), Javascript with rich UI.
+2) Form must have the following fields.
+3) First Name,
+4) Last Name,
+5) Email,
+6) gender,
+7) Contact Number,
+8) Password,
+9) confirmPassword,
+10) hobbies(singing, Reading, Writing, dancing, other) (2 hobbies are required) 
+11) designation(must be one of following ‘Intern’,’Junior software engineer’,’Team lead’,’Project Manager’),
+
+Once form is submitted data should be saved to storage(use localstorage)
+
+Case 
+I want to prevent users from entering invalid or duplicate data.

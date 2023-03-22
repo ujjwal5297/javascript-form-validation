@@ -1,0 +1,17 @@
+-There is a signup form containing the following fields:
+
+1) First Name,
+2) Last Name,
+3) Email,
+4) gender,
+5) Contact Number,
+6) Hobbies
+7) Designation
+6) Password,
+7) ConfirmPassword,
+
+-All the fields are mandatory in the form, if a user tries to submit form without giving any value to any field then data would not be submitted (It is mandatory to choose atleast two hobbies by the user).
+
+-If all the fields are appropriately filled then, user's data would store in local storage of the browser.
+
+-If user's email already present in the local storage then, he would not be able to register.

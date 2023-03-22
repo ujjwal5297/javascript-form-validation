@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+}
+
+span{
+    color: red;
+}
+
+.container{
+    border: 3px solid black;
+    border-radius: 20px;
+    margin-top: 3rem;
+    background-color: rgb(174, 176, 161);
+    width: 50rem;
+    padding: 2rem;
+}
+
+label{
+    font-weight: 700;
+}
+
+.flex-properties{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
